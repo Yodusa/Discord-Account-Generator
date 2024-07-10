@@ -1,0 +1,6 @@
+[MAIN]
+captcha_key = CAPTCHA SOLVING KEY HERE
+site_key = SITE KEY HERE
+
+[STATUS]
+sleep_interval = 0.5
